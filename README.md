@@ -16,6 +16,9 @@ It's recommended to walk through the Hello AI World module first to familiarize 
 ### Table of Contents
 
 * [Hello AI World](#hello-ai-world)
+
+
+
 * [Two Days to a Demo](#two-days-to-a-demo-digits)
 * [API Reference](#api-reference)
 * [Code Examples](#code-examples)
